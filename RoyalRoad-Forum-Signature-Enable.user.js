@@ -17,7 +17,7 @@
 // ==/UserScript==
 /* globals $ */
 
-// If the page does not jump back up to the top or a comment/post change the timeout from 1000 to something higher (1000=1sec,2000=2sec etc.)
+// If the page does not jump back up to the top or a comment/post change the timeout from 0 to something higher (1000=1sec,2000=2sec etc.)
 (function() {
 	'use strict';
 	// original scroll position
@@ -31,5 +31,5 @@
 	// back to original scoll position
 	setTimeout(function() {
 		$(window).scrollTop(scrollPos)
-	}, 1000);
+	}, 0); // <--- Timeout timer, Change this if it doesn't scroll back to where the page should have been.
 })();
