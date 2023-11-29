@@ -4,11 +4,11 @@
 // @version		0.1
 // @description	Enable signature when posting on RoyalRoad Forum.
 // @author		Aapjuh
-// @icon        https://raw.githubusercontent.com/nomomo/Twitch-Auto-Max-Quality/master/images/logo.png
-// @supportURL  https://github.com/nomomo/Twitch-Auto-Max-Quality/issues
-// @homepageURL https://github.com/nomomo/Twitch-Auto-Max-Quality/
-// @downloadURL https://raw.githubusercontent.com/nomomo/Twitch-Auto-Max-Quality/master/Twitch-Mobile-Web-Source-Quality.user.js
-// @updateURL   https://raw.githubusercontent.com/nomomo/Twitch-Auto-Max-Quality/master/Twitch-Mobile-Web-Source-Quality.user.js
+// @icon        https://raw.githubusercontent.com/Aapjuh/RoyalRoad-Forum-Signature-Enable/main/RR-logo.png
+// @supportURL  https://github.com/Aapjuh/RoyalRoad-Forum-Signature-Enable/issues
+// @homepageURL https://github.com/Aapjuh/RoyalRoad-Forum-Signature-Enable
+// @downloadURL https://github.com/Aapjuh/RoyalRoad-Forum-Signature-Enable/raw/main/RoyalRoad-Forum-Signature-Enable.user.js
+// @updateURL   https://github.com/Aapjuh/RoyalRoad-Forum-Signature-Enable/raw/main/RoyalRoad-Forum-Signature-Enable.user.js
 // @match		https://www.royalroad.com/forums/postreply/*
 // @match		https://www.royalroad.com/forums/newthread/*
 // @match		https://www.royalroad.com/forums/thread/*
