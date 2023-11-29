@@ -13,6 +13,7 @@
 - Edge - [Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 This script may not work properly on script managers other than Tampermonkey.
+
 You can try it and it will likely work, but i have not tested it on others myself.
 
 ### STEP 2. UserScript
