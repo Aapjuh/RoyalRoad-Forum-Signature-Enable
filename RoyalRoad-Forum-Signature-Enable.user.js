@@ -15,8 +15,7 @@
 // @icon		https://www.google.com/s2/favicons?sz=64&domain=royalroad.com
 // @grant		none
 // ==/UserScript==
-/* globals $ */
-
+//
 // If the page does not jump back up to the top or a comment/post change the timeout from 0 to something higher (1000=1sec,2000=2sec etc.)
 (function() {
 	'use strict';
