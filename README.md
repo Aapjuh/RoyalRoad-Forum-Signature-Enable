@@ -22,7 +22,7 @@ You can try it and it will likely work, but i have not tested it on others mysel
 
 ## Change log
 
-### 0.1 (2019-10-07)
+### 0.1 (2023-11-29)
 
 - Initial commit
 
