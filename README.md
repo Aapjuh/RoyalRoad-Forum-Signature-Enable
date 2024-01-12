@@ -22,6 +22,10 @@ You can try it and it will likely work, but i have not tested it on others mysel
 
 ## Change log
 
+### 0.2 (2024-01-12)
+
+- Fixed waiting for page load
+
 ### 0.1 (2023-11-29)
 
 - Initial commit
