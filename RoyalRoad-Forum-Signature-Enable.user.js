@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name			RoyalRoad Forum Signature Enable
 // @namespace		RoyalRoad Forum Signature Enable
-// @version			0.3
+// @version			0.4
 // @description		Enable signature when posting on RoyalRoad Forum.
 // @author			Aapjuh
 // @icon			https://raw.githubusercontent.com/Aapjuh/RoyalRoad-Forum-Signature-Enable/main/RR-logo.png
