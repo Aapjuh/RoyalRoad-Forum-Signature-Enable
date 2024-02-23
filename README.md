@@ -22,6 +22,11 @@ You can try it and it will likely work, but i have not tested it on others mysel
 
 ## Change log
 
+### 0.4 (2024-02-23)
+
+- Simplified Code
+- more specific element/attribute path selection
+
 ### 0.3 (2024-01-13)
 
 - Removed requirement
