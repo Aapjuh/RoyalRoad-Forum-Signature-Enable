@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name			RoyalRoad Forum Signature Enable
 // @namespace		RoyalRoad Forum Signature Enable
-// @version			0.4
+// @version			1.0
 // @description		Enable signature when posting on RoyalRoad Forum.
 // @author			Aapjuh
 // @icon			https://raw.githubusercontent.com/Aapjuh/RoyalRoad-Forum-Signature-Enable/main/RR-logo.png
@@ -17,11 +17,11 @@
 /* globals jQuery, $, waitForKeyElements */
 //
 (function() {
-    'use strict';
+	'use strict';
 
-    //--- Wait for the document to be ready
-    $(document).ready(function() {
-        // Enable signature
-        $("label.mt-checkbox input[name='Signature']").prop('checked', true);
-    });
+	//--- Wait for the document to be ready
+	$(document).ready(function() {
+		// Enable signature
+		$("label.mt-checkbox input[name='Signature']").prop('checked', true);
+	});
 })();
