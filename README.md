@@ -22,6 +22,10 @@ You can try it and it will likely work, but i have not tested it on others mysel
 
 ## Change log
 
+### 1.0 (2024-02-28)
+
+- Stable
+
 ### 0.4 (2024-02-23)
 
 - Simplified Code
